@@ -1,6 +1,7 @@
 # My Dotfiles
 
 This repository contains my personal configuration files for various applications and tools that I use on my minimal laptop build.
+(Ignore the listofapps.txt)
 
 ## Installation
 
@@ -15,7 +16,7 @@ cd ~/.dotfilesi3
 ```
 ## Usage
 
-After installation, your configuration files will be set up. You can customize them further as per your needs.
+After cloning the dotfiles, copy them, go to your home directory and paste it in. You can customize them further as per your needs.
 <!--
 - **i3**: Window manager configuration
 - **nvim**: Text editor configuration
