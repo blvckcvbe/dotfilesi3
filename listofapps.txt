@@ -1,0 +1,14 @@
+gparted
+nitrogen
+nvtop
+bluetooth manager
+nemo
+file roller
+gnome customize look and feel (gtk)
+volume control
+flameshot
+hardware locality lstopo
+advanced network configuration
+image viewer
+octopi (cache cleaner)
+

@@ -1,0 +1,39 @@
+[Default Applications]
+x-scheme-handler/http=zen.desktop
+x-scheme-handler/https=zen.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/ror2mm=r2modman.desktop
+text/html=zen.desktop
+text/css=code-oss.desktop
+text/markdown=code-oss.desktop
+text/plain=org.gnome.TextEditor.desktop
+image/jpeg=org.gnome.Loupe.desktop
+image/png=org.gnome.Loupe.desktop
+image/webp=org.gnome.Loupe.desktop
+image/gif=org.gnome.Loupe.desktop
+image/x-icns=org.gnome.Loupe.desktop
+audio/mpeg=org.gnome.Totem.desktop
+x-scheme-handler/tg=userapp-AyuGram Desktop-F6V302.desktop
+x-scheme-handler/tonsite=userapp-AyuGram Desktop-TM0302.desktop
+x-scheme-handler/chrome=zen.desktop
+application/x-extension-htm=zen.desktop
+application/x-extension-html=zen.desktop
+application/x-extension-shtml=zen.desktop
+application/xhtml+xml=zen.desktop
+application/x-extension-xhtml=zen.desktop
+application/x-extension-xht=zen.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-AyuGram Desktop-F6V302.desktop;
+x-scheme-handler/tonsite=userapp-AyuGram Desktop-TM0302.desktop;
+x-scheme-handler/http=zen.desktop;userapp-Mullvad Browser-KZT752.desktop;
+x-scheme-handler/https=zen.desktop;userapp-Mullvad Browser-KZT752.desktop;
+x-scheme-handler/chrome=zen.desktop;userapp-Mullvad Browser-KZT752.desktop;
+text/html=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
+application/x-extension-htm=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
+application/x-extension-html=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
+application/x-extension-shtml=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
+application/xhtml+xml=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
+application/x-extension-xhtml=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
+application/x-extension-xht=userapp-Mullvad Browser-KZT752.desktop;zen.desktop;
