@@ -26,7 +26,5 @@ Feel free to modify any of the files to suit your workflow.
 
 ## Screenshots
 
-![](screenshots/fetch.png)
-![](screenshots/nitrogen.png)
-![](screenshots/rofi.png)
+![](screenshots/nordic.png)
 
