@@ -26,5 +26,5 @@ Feel free to modify any of the files to suit your workflow.
 
 ## Screenshots
 
-![](screenshots/nordic.png)
+![](/.config/wallpapers/nordic.png)
 
