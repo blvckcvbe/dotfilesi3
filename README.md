@@ -1,7 +1,6 @@
 # My Dotfiles
 
 This repository contains my personal configuration files for various applications and tools that I use on my minimal laptop build.
-(Ignore the listofapps.txt)
 
 ## Installation
 
