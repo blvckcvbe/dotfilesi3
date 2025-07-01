@@ -7,77 +7,77 @@ padding = {x = 15, y = 15}
 opacity = 0.9
 
 [colors.primary]
-background = "#1e1e2e"
-foreground = "#cdd6f4"
-dim_foreground = "#7f849c"
-bright_foreground = "#cdd6f4"
+background = "#2e3440"
+foreground = "#d8dee9"
+dim_foreground = "#4c566a"
+bright_foreground = "#eceff4"
 
 [colors.cursor]
-text = "#1e1e2e"
-cursor = "#f5e0dc"
+text = "#2e3440"
+cursor = "#88c0d0"
 
 [colors.vi_mode_cursor]
-text = "#1e1e2e"
-cursor = "#b4befe"
+text = "#2e3440"
+cursor = "#81a1c1"
 
 [colors.search.matches]
-foreground = "#1e1e2e"
-background = "#a6adc8"
+foreground = "#2e3440"
+background = "#8fbcbb"
 
 [colors.search.focused_match]
-foreground = "#1e1e2e"
-background = "#a6e3a1"
+foreground = "#2e3440"
+background = "#88c0d0"
 
 [colors.footer_bar]
-foreground = "#1e1e2e"
-background = "#a6adc8"
+foreground = "#2e3440"
+background = "#8fbcbb"
 
 [colors.hints.start]
-foreground = "#1e1e2e"
-background = "#f9e2af"
+foreground = "#2e3440"
+background = "#ebcb8b"
 
 [colors.hints.end]
-foreground = "#1e1e2e"
-background = "#a6adc8"
+foreground = "#2e3440"
+background = "#8fbcbb"
 
 [colors.selection]
-text = "#1e1e2e"
-background = "#f5e0dc"
+text = "#2e3440"
+background = "#88c0d0"
 
 [colors.normal]
-black = "#45475a"
-red = "#f38ba8"
-green = "#a6e3a1"
-yellow = "#f9e2af"
-blue = "#89b4fa"
-magenta = "#f5c2e7"
-cyan = "#94e2d5"
-white = "#bac2de"
+black   = "#3b4252"
+red     = "#bf616a"
+green   = "#a3be8c"
+yellow  = "#ebcb8b"
+blue    = "#81a1c1"
+magenta = "#b48ead"
+cyan    = "#88c0d0"
+white   = "#e5e9f0"
 
 [colors.bright]
-black = "#585b70"
-red = "#f38ba8"
-green = "#a6e3a1"
-yellow = "#f9e2af"
-blue = "#89b4fa"
-magenta = "#f5c2e7"
-cyan = "#94e2d5"
-white = "#a6adc8"
+black   = "#4c566a"
+red     = "#bf616a"
+green   = "#a3be8c"
+yellow  = "#ebcb8b"
+blue    = "#81a1c1"
+magenta = "#b48ead"
+cyan    = "#8fbcbb"
+white   = "#eceff4"
 
 [colors.dim]
-black = "#45475a"
-red = "#f38ba8"
-green = "#a6e3a1"
-yellow = "#f9e2af"
-blue = "#89b4fa"
-magenta = "#f5c2e7"
-cyan = "#94e2d5"
-white = "#bac2de"
+black   = "#2e3440"
+red     = "#bf616a"
+green   = "#a3be8c"
+yellow  = "#ebcb8b"
+blue    = "#5e81ac"
+magenta = "#b48ead"
+cyan    = "#88c0d0"
+white   = "#d8dee9"
 
 [[colors.indexed_colors]]
 index = 16
-color = "#fab387"
+color = "#d08770"
 
 [[colors.indexed_colors]]
 index = 17
-color = "#f5e0dc"
+color = "#a3be8c"
